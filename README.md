@@ -7,6 +7,8 @@ Real-time License Plate Recognition System
 - Optimized OCR accuracy through image preprocessing techniques (grayscale conversion, resizing, noise reduction).
 - Stored detected license plate numbers and images in an SQLite database for efficient retrieval.
 - Utilized multithreading to handle video processing and GUI updates seamlessly without lag.
+
+Demo
 ![Demo](demo.png)
 Train : 
 ![Lossed during training](train.png)
